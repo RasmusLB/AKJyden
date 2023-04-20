@@ -1,0 +1,895 @@
+/******************* AK Jyden RED THEME *******************/
+body.AKJydenRed span {
+	color: #DE0000;
+}
+body.AKJydenRed .slide:hover, body.AKJydenRed .slide:focus {
+	box-shadow: inset 15.5em 0 0 0 #DE0000;
+}
+body.AKJydenRed .btn-primary:focus, body.AKJydenRed .btn-primary.focus {
+	color: #fff;
+	background-color: #DE0000;
+	border-color: #DE0000;
+}
+body.AKJydenRed .btn-primary {
+	padding: 15px 50px;
+	border-radius: 0px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #DE0000;
+	background-color: #fff;
+	border-color: #DE0000;
+	background: none;
+}
+body.AKJydenRed .btn-primary:focus, body.AKJydenRed .btn-primary.focus {
+	color: #DE0000;
+	background-color: #e6e6e6;
+	border-color: #9d171b;
+}
+body.AKJydenRed .btn-primary:hover {
+	color: #DE0000;
+	background-color: #e6e6e6;
+	border-color: #d61f26;
+}
+body.AKJydenRed .btn-primary:active, body.AKJydenRed .btn-primary.active, .open > body.AKJydenRed .btn-primary.dropdown-toggle {
+	color: #DE0000;
+	background-color: #e6e6e6;
+	border-color: #d61f26;
+}
+body.AKJydenRed .btn-primary:active:hover, body.AKJydenRed .btn-primary:active:focus, body.AKJydenRed .btn-primary:active.focus, body.AKJydenRed .btn-primary.active:hover, body.AKJydenRed .btn-primary.active:focus, body.AKJydenRed .btn-primary.active.focus, .open > body.AKJydenRed .btn-primary.dropdown-toggle:hover, .open > body.AKJydenRed .btn-primary.dropdown-toggle:focus, .open > body.AKJydenRed .btn-primary.dropdown-toggle.focus {
+	color: #DE0000;
+	background-color: #d4d4d4;
+	border-color: #9d171b;
+}
+body.AKJydenRed .btn-primary:active, body.AKJydenRed .btn-primary.active, .open > body.AKJydenRed .btn-primary.dropdown-toggle {
+	background-image: none;
+}
+body.AKJydenRed .btn-primary.disabled:hover, body.AKJydenRed .btn-primary.disabled:focus, body.AKJydenRed .btn-primary.disabled.focus, body.AKJydenRed .btn-primary[disabled]:hover, body.AKJydenRed .btn-primary[disabled]:focus, body.AKJydenRed .btn-primary[disabled].focus, fieldset[disabled] body.AKJydenRed .btn-primary:hover, fieldset[disabled] body.AKJydenRed .btn-primary:focus, fieldset[disabled] body.AKJydenRed .btn-primary.focus {
+	background-color: #fff;
+	border-color: #DE0000;
+}
+body.AKJydenRed .btn-primary .badge {
+	color: #fff;
+	background-color: #DE0000;
+}
+body.AKJydenRed .btn-primary:hover, body.AKJydenRed .btn-primary:focus, body.AKJydenRed .btn-primary:active {
+	color: #fff;
+	background-color: #DE0000;
+	border-color: #DE0000;
+	transition: 0.25s;
+}
+body.AKJydenRed .btn-primary:hover:focus, body.AKJydenRed .btn-primary:hover.focus, body.AKJydenRed .btn-primary:focus:focus, body.AKJydenRed .btn-primary:focus.focus, body.AKJydenRed .btn-primary:active:focus, body.AKJydenRed .btn-primary:active.focus {
+	color: #fff;
+	background-color: #de2228;
+	border-color: #9d171b;
+}
+body.AKJydenRed .btn-primary:hover:hover, body.AKJydenRed .btn-primary:focus:hover, body.AKJydenRed .btn-primary:active:hover {
+	color: #fff;
+	background-color: #de2228;
+	border-color: #d61f26;
+}
+body.AKJydenRed .btn-primary:hover:active, body.AKJydenRed .btn-primary:hover.active, .open > body.AKJydenRed .btn-primary:hover.dropdown-toggle, body.AKJydenRed .btn-primary:focus:active, body.AKJydenRed .btn-primary:focus.active, .open > body.AKJydenRed .btn-primary:focus.dropdown-toggle, body.AKJydenRed .btn-primary:active:active, body.AKJydenRed .btn-primary:active.active, .open > body.AKJydenRed .btn-primary:active.dropdown-toggle {
+	color: #fff;
+	background-color: #de2228;
+	border-color: #d61f26;
+}
+body.AKJydenRed .btn-primary:hover:active:hover, body.AKJydenRed .btn-primary:hover:active:focus, body.AKJydenRed .btn-primary:hover:active.focus, body.AKJydenRed .btn-primary:hover.active:hover, body.AKJydenRed .btn-primary:hover.active:focus, body.AKJydenRed .btn-primary:hover.active.focus, .open > body.AKJydenRed .btn-primary:hover.dropdown-toggle:hover, .open > body.AKJydenRed .btn-primary:hover.dropdown-toggle:focus, .open > body.AKJydenRed .btn-primary:hover.dropdown-toggle.focus, body.AKJydenRed .btn-primary:focus:active:hover, body.AKJydenRed .btn-primary:focus:active:focus, body.AKJydenRed .btn-primary:focus:active.focus, body.AKJydenRed .btn-primary:focus.active:hover, body.AKJydenRed .btn-primary:focus.active:focus, body.AKJydenRed .btn-primary:focus.active.focus, .open > body.AKJydenRed .btn-primary:focus.dropdown-toggle:hover, .open > body.AKJydenRed .btn-primary:focus.dropdown-toggle:focus, .open > body.AKJydenRed .btn-primary:focus.dropdown-toggle.focus, body.AKJydenRed .btn-primary:active:active:hover, body.AKJydenRed .btn-primary:active:active:focus, body.AKJydenRed .btn-primary:active:active.focus, body.AKJydenRed .btn-primary:active.active:hover, body.AKJydenRed .btn-primary:active.active:focus, body.AKJydenRed .btn-primary:active.active.focus, .open > body.AKJydenRed .btn-primary:active.dropdown-toggle:hover, .open > body.AKJydenRed .btn-primary:active.dropdown-toggle:focus, .open > body.AKJydenRed .btn-primary:active.dropdown-toggle.focus {
+	color: #fff;
+	background-color: #c01c22;
+	border-color: #9d171b;
+}
+body.AKJydenRed .btn-primary:hover:active, body.AKJydenRed .btn-primary:hover.active, .open > body.AKJydenRed .btn-primary:hover.dropdown-toggle, body.AKJydenRed .btn-primary:focus:active, body.AKJydenRed .btn-primary:focus.active, .open > body.AKJydenRed .btn-primary:focus.dropdown-toggle, body.AKJydenRed .btn-primary:active:active, body.AKJydenRed .btn-primary:active.active, .open > body.AKJydenRed .btn-primary:active.dropdown-toggle {
+	background-image: none;
+}
+body.AKJydenRed .btn-primary:hover.disabled:hover, body.AKJydenRed .btn-primary:hover.disabled:focus, body.AKJydenRed .btn-primary:hover.disabled.focus, body.AKJydenRed .btn-primary:hover[disabled]:hover, body.AKJydenRed .btn-primary:hover[disabled]:focus, body.AKJydenRed .btn-primary:hover[disabled].focus, fieldset[disabled] body.AKJydenRed .btn-primary:hover:hover, fieldset[disabled] body.AKJydenRed .btn-primary:hover:focus, fieldset[disabled] body.AKJydenRed .btn-primary:hover.focus, body.AKJydenRed .btn-primary:focus.disabled:hover, body.AKJydenRed .btn-primary:focus.disabled:focus, body.AKJydenRed .btn-primary:focus.disabled.focus, body.AKJydenRed .btn-primary:focus[disabled]:hover, body.AKJydenRed .btn-primary:focus[disabled]:focus, body.AKJydenRed .btn-primary:focus[disabled].focus, fieldset[disabled] body.AKJydenRed .btn-primary:focus:hover, fieldset[disabled] body.AKJydenRed .btn-primary:focus:focus, fieldset[disabled] body.AKJydenRed .btn-primary:focus.focus, body.AKJydenRed .btn-primary:active.disabled:hover, body.AKJydenRed .btn-primary:active.disabled:focus, body.AKJydenRed .btn-primary:active.disabled.focus, body.AKJydenRed .btn-primary:active[disabled]:hover, body.AKJydenRed .btn-primary:active[disabled]:focus, body.AKJydenRed .btn-primary:active[disabled].focus, fieldset[disabled] body.AKJydenRed .btn-primary:active:hover, fieldset[disabled] body.AKJydenRed .btn-primary:active:focus, fieldset[disabled] body.AKJydenRed .btn-primary:active.focus {
+	background-color: #DE0000;
+	border-color: #DE0000;
+}
+body.AKJydenRed .btn-primary:hover .badge, body.AKJydenRed .btn-primary:focus .badge, body.AKJydenRed .btn-primary:active .badge {
+	color: #DE0000;
+	background-color: #fff;
+}
+body.AKJydenRed .btn-primary:hover:hover, body.AKJydenRed .btn-primary:hover:focus, body.AKJydenRed .btn-primary:hover.focus, body.AKJydenRed .btn-primary:focus:hover, body.AKJydenRed .btn-primary:focus:focus, body.AKJydenRed .btn-primary:focus.focus, body.AKJydenRed .btn-primary:active:hover, body.AKJydenRed .btn-primary:active:focus, body.AKJydenRed .btn-primary:active.focus {
+	color: #fff;
+	text-decoration: none;
+}
+body.AKJydenRed .btn-primary:hover i, body.AKJydenRed .btn-primary:focus i, body.AKJydenRed .btn-primary:active i {
+	color: #fff;
+}
+body.AKJydenRed .btn-default {
+	padding: 15px 50px;
+	border-radius: 0px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #DE0000;
+	border-color: #DE0000;
+}
+body.AKJydenRed .btn-default:focus, body.AKJydenRed .btn-default.focus {
+	color: #fff;
+	background-color: #de2228;
+	border-color: #9d171b;
+}
+body.AKJydenRed .btn-default:hover {
+	color: #fff;
+	background-color: #de2228;
+	border-color: #d61f26;
+}
+body.AKJydenRed .btn-default:active, body.AKJydenRed .btn-default.active, .open > body.AKJydenRed .btn-default.dropdown-toggle {
+	color: #fff;
+	background-color: #de2228;
+	border-color: #d61f26;
+}
+body.AKJydenRed .btn-default:active:hover, body.AKJydenRed .btn-default:active:focus, body.AKJydenRed .btn-default:active.focus, body.AKJydenRed .btn-default.active:hover, body.AKJydenRed .btn-default.active:focus, body.AKJydenRed .btn-default.active.focus, .open > body.AKJydenRed .btn-default.dropdown-toggle:hover, .open > body.AKJydenRed .btn-default.dropdown-toggle:focus, .open > body.AKJydenRed .btn-default.dropdown-toggle.focus {
+	color: #fff;
+	background-color: #c01c22;
+	border-color: #9d171b;
+}
+body.AKJydenRed .btn-default:active, body.AKJydenRed .btn-default.active, .open > body.AKJydenRed .btn-default.dropdown-toggle {
+	background-image: none;
+}
+body.AKJydenRed .btn-default.disabled:hover, body.AKJydenRed .btn-default.disabled:focus, body.AKJydenRed .btn-default.disabled.focus, body.AKJydenRed .btn-default[disabled]:hover, body.AKJydenRed .btn-default[disabled]:focus, body.AKJydenRed .btn-default[disabled].focus, fieldset[disabled] body.AKJydenRed .btn-default:hover, fieldset[disabled] body.AKJydenRed .btn-default:focus, fieldset[disabled] body.AKJydenRed .btn-default.focus {
+	background-color: #DE0000;
+	border-color: #DE0000;
+}
+body.AKJydenRed .btn-default .badge {
+	color: #DE0000;
+	background-color: #fff;
+}
+body.AKJydenRed .btn-default i {
+	color: #fff;
+}
+body.AKJydenRed .btn-default:hover {
+	color: #fff;
+	background-color: #DE0000;
+	border-color: #DE0000;
+	transition: 0.25s;
+}
+body.AKJydenRed .btn-default:hover:focus, body.AKJydenRed .btn-default:hover.focus {
+	color: #fff;
+	background-color: #de2228;
+	border-color: #9d171b;
+}
+body.AKJydenRed .btn-default:hover:hover {
+	color: #fff;
+	background-color: #de2228;
+	border-color: #d61f26;
+}
+body.AKJydenRed .btn-default:hover:active, body.AKJydenRed .btn-default:hover.active, .open > body.AKJydenRed .btn-default:hover.dropdown-toggle {
+	color: #fff;
+	background-color: #de2228;
+	border-color: #d61f26;
+}
+body.AKJydenRed .btn-default:hover:active:hover, body.AKJydenRed .btn-default:hover:active:focus, body.AKJydenRed .btn-default:hover:active.focus, body.AKJydenRed .btn-default:hover.active:hover, body.AKJydenRed .btn-default:hover.active:focus, body.AKJydenRed .btn-default:hover.active.focus, .open > body.AKJydenRed .btn-default:hover.dropdown-toggle:hover, .open > body.AKJydenRed .btn-default:hover.dropdown-toggle:focus, .open > body.AKJydenRed .btn-default:hover.dropdown-toggle.focus {
+	color: #fff;
+	background-color: #c01c22;
+	border-color: #9d171b;
+}
+body.AKJydenRed .btn-default:hover:active, body.AKJydenRed .btn-default:hover.active, .open > body.AKJydenRed .btn-default:hover.dropdown-toggle {
+	background-image: none;
+}
+body.AKJydenRed .btn-default:hover.disabled:hover, body.AKJydenRed .btn-default:hover.disabled:focus, body.AKJydenRed .btn-default:hover.disabled.focus, body.AKJydenRed .btn-default:hover[disabled]:hover, body.AKJydenRed .btn-default:hover[disabled]:focus, body.AKJydenRed .btn-default:hover[disabled].focus, fieldset[disabled] body.AKJydenRed .btn-default:hover:hover, fieldset[disabled] body.AKJydenRed .btn-default:hover:focus, fieldset[disabled] body.AKJydenRed .btn-default:hover.focus {
+	background-color: #DE0000;
+	border-color: #DE0000;
+}
+body.AKJydenRed .btn-default:hover .badge {
+	color: #DE0000;
+	background-color: #fff;
+}
+body.AKJydenRed .btn-default:hover:hover, body.AKJydenRed .btn-default:hover:focus, body.AKJydenRed .btn-default:hover.focus {
+	color: #fff;
+	text-decoration: none;
+}
+body.AKJydenRed .btn-default:hover i {
+	color: #777777;
+}
+body.AKJydenRed #top-header ul.contact_links a:hover {
+	color: #DE0000;
+}
+body.AKJydenRed #top-header ul.social_links i:hover {
+	color: #DE0000;
+}
+body.AKJydenRed .navbar-brand h1 {
+	color: #DE0000 !important;
+}
+body.AKJydenRed .navbar-brand span {
+	color: #333333 !important;
+}
+body.AKJydenRed .navbar-inverse .navbar-toggle:hover, body.AKJydenRed .navbar-inverse .navbar-toggle:focus {
+	background-color: #fff;
+}
+body.AKJydenRed .navbar-inverse .navbar-toggle {
+	border-color: #DE0000;
+}
+body.AKJydenRed .navbar-inverse .navbar-toggle .icon-bar {
+	background-color: #DE0000;
+}
+body.AKJydenRed i {
+	color: #DE0000;
+}
+body.AKJydenRed .btn-default:hover {
+	color: #fff;
+	background-color: #DE0000;
+	border-color: #DE0000;
+}
+body.AKJydenRed .btn-default:hover:focus, body.AKJydenRed .btn-default:hover.focus {
+	color: #fff;
+	background-color: #de2228;
+	border-color: #9d171b;
+}
+body.AKJydenRed .btn-default:hover:hover {
+	color: #fff;
+	background-color: #de2228;
+	border-color: #d61f26;
+}
+body.AKJydenRed .btn-default:hover:active, body.AKJydenRed .btn-default:hover.active, .open > body.AKJydenRed .btn-default:hover.dropdown-toggle {
+	color: #fff;
+	background-color: #de2228;
+	border-color: #d61f26;
+}
+body.AKJydenRed .btn-default:hover:active:hover, body.AKJydenRed .btn-default:hover:active:focus, body.AKJydenRed .btn-default:hover:active.focus, body.AKJydenRed .btn-default:hover.active:hover, body.AKJydenRed .btn-default:hover.active:focus, body.AKJydenRed .btn-default:hover.active.focus, .open > body.AKJydenRed .btn-default:hover.dropdown-toggle:hover, .open > body.AKJydenRed .btn-default:hover.dropdown-toggle:focus, .open > body.AKJydenRed .btn-default:hover.dropdown-toggle.focus {
+	color: #fff;
+	background-color: #c01c22;
+	border-color: #9d171b;
+}
+body.AKJydenRed .btn-default:hover:active, body.AKJydenRed .btn-default:hover.active, .open > body.AKJydenRed .btn-default:hover.dropdown-toggle {
+	background-image: none;
+}
+body.AKJydenRed .btn-default:hover.disabled:hover, body.AKJydenRed .btn-default:hover.disabled:focus, body.AKJydenRed .btn-default:hover.disabled.focus, body.AKJydenRed .btn-default:hover[disabled]:hover, body.AKJydenRed .btn-default:hover[disabled]:focus, body.AKJydenRed .btn-default:hover[disabled].focus, fieldset[disabled] body.AKJydenRed .btn-default:hover:hover, fieldset[disabled] body.AKJydenRed .btn-default:hover:focus, fieldset[disabled] body.AKJydenRed .btn-default:hover.focus {
+	background-color: #DE0000;
+	border-color: #DE0000;
+}
+body.AKJydenRed .btn-default:hover .badge {
+	color: #DE0000;
+	background-color: #fff;
+}
+body.AKJydenRed .btn-default:hover:hover, body.AKJydenRed .btn-default:hover:focus, body.AKJydenRed .btn-default:hover.focus {
+	color: #777777;
+	background-color: #DE0000;
+	text-decoration: none;
+}
+body.AKJydenRed .btn-primary:hover, body.AKJydenRed .btn-primary:focus, body.AKJydenRed .btn-primary:active {
+	color: #fff;
+	background-color: #DE0000;
+	border-color: #DE0000;
+}
+body.AKJydenRed .btn-primary:hover:focus, body.AKJydenRed .btn-primary:hover.focus, body.AKJydenRed .btn-primary:focus:focus, body.AKJydenRed .btn-primary:focus.focus, body.AKJydenRed .btn-primary:active:focus, body.AKJydenRed .btn-primary:active.focus {
+	color: #fff;
+	background-color: #de2228;
+	border-color: #9d171b;
+}
+body.AKJydenRed .btn-primary:hover:hover, body.AKJydenRed .btn-primary:focus:hover, body.AKJydenRed .btn-primary:active:hover {
+	color: #fff;
+	background-color: #de2228;
+	border-color: #d61f26;
+}
+body.AKJydenRed .btn-primary:hover:active, body.AKJydenRed .btn-primary:hover.active, .open > body.AKJydenRed .btn-primary:hover.dropdown-toggle, body.AKJydenRed .btn-primary:focus:active, body.AKJydenRed .btn-primary:focus.active, .open > body.AKJydenRed .btn-primary:focus.dropdown-toggle, body.AKJydenRed .btn-primary:active:active, body.AKJydenRed .btn-primary:active.active, .open > body.AKJydenRed .btn-primary:active.dropdown-toggle {
+	color: #fff;
+	background-color: #de2228;
+	border-color: #d61f26;
+}
+body.AKJydenRed .btn-primary:hover:active:hover, body.AKJydenRed .btn-primary:hover:active:focus, body.AKJydenRed .btn-primary:hover:active.focus, body.AKJydenRed .btn-primary:hover.active:hover, body.AKJydenRed .btn-primary:hover.active:focus, body.AKJydenRed .btn-primary:hover.active.focus, .open > body.AKJydenRed .btn-primary:hover.dropdown-toggle:hover, .open > body.AKJydenRed .btn-primary:hover.dropdown-toggle:focus, .open > body.AKJydenRed .btn-primary:hover.dropdown-toggle.focus, body.AKJydenRed .btn-primary:focus:active:hover, body.AKJydenRed .btn-primary:focus:active:focus, body.AKJydenRed .btn-primary:focus:active.focus, body.AKJydenRed .btn-primary:focus.active:hover, body.AKJydenRed .btn-primary:focus.active:focus, body.AKJydenRed .btn-primary:focus.active.focus, .open > body.AKJydenRed .btn-primary:focus.dropdown-toggle:hover, .open > body.AKJydenRed .btn-primary:focus.dropdown-toggle:focus, .open > body.AKJydenRed .btn-primary:focus.dropdown-toggle.focus, body.AKJydenRed .btn-primary:active:active:hover, body.AKJydenRed .btn-primary:active:active:focus, body.AKJydenRed .btn-primary:active:active.focus, body.AKJydenRed .btn-primary:active.active:hover, body.AKJydenRed .btn-primary:active.active:focus, body.AKJydenRed .btn-primary:active.active.focus, .open > body.AKJydenRed .btn-primary:active.dropdown-toggle:hover, .open > body.AKJydenRed .btn-primary:active.dropdown-toggle:focus, .open > body.AKJydenRed .btn-primary:active.dropdown-toggle.focus {
+	color: #fff;
+	background-color: #c01c22;
+	border-color: #9d171b;
+}
+body.AKJydenRed .btn-primary:hover:active, body.AKJydenRed .btn-primary:hover.active, .open > body.AKJydenRed .btn-primary:hover.dropdown-toggle, body.AKJydenRed .btn-primary:focus:active, body.AKJydenRed .btn-primary:focus.active, .open > body.AKJydenRed .btn-primary:focus.dropdown-toggle, body.AKJydenRed .btn-primary:active:active, body.AKJydenRed .btn-primary:active.active, .open > body.AKJydenRed .btn-primary:active.dropdown-toggle {
+	background-image: none;
+}
+body.AKJydenRed .btn-primary:hover.disabled:hover, body.AKJydenRed .btn-primary:hover.disabled:focus, body.AKJydenRed .btn-primary:hover.disabled.focus, body.AKJydenRed .btn-primary:hover[disabled]:hover, body.AKJydenRed .btn-primary:hover[disabled]:focus, body.AKJydenRed .btn-primary:hover[disabled].focus, fieldset[disabled] body.AKJydenRed .btn-primary:hover:hover, fieldset[disabled] body.AKJydenRed .btn-primary:hover:focus, fieldset[disabled] body.AKJydenRed .btn-primary:hover.focus, body.AKJydenRed .btn-primary:focus.disabled:hover, body.AKJydenRed .btn-primary:focus.disabled:focus, body.AKJydenRed .btn-primary:focus.disabled.focus, body.AKJydenRed .btn-primary:focus[disabled]:hover, body.AKJydenRed .btn-primary:focus[disabled]:focus, body.AKJydenRed .btn-primary:focus[disabled].focus, fieldset[disabled] body.AKJydenRed .btn-primary:focus:hover, fieldset[disabled] body.AKJydenRed .btn-primary:focus:focus, fieldset[disabled] body.AKJydenRed .btn-primary:focus.focus, body.AKJydenRed .btn-primary:active.disabled:hover, body.AKJydenRed .btn-primary:active.disabled:focus, body.AKJydenRed .btn-primary:active.disabled.focus, body.AKJydenRed .btn-primary:active[disabled]:hover, body.AKJydenRed .btn-primary:active[disabled]:focus, body.AKJydenRed .btn-primary:active[disabled].focus, fieldset[disabled] body.AKJydenRed .btn-primary:active:hover, fieldset[disabled] body.AKJydenRed .btn-primary:active:focus, fieldset[disabled] body.AKJydenRed .btn-primary:active.focus {
+	background-color: #DE0000;
+	border-color: #DE0000;
+}
+body.AKJydenRed .btn-primary:hover .badge, body.AKJydenRed .btn-primary:focus .badge, body.AKJydenRed .btn-primary:active .badge {
+	color: #DE0000;
+	background-color: #fff;
+}
+body.AKJydenRed .btn-primary:hover:hover, body.AKJydenRed .btn-primary:hover:focus, body.AKJydenRed .btn-primary:hover.focus, body.AKJydenRed .btn-primary:focus:hover, body.AKJydenRed .btn-primary:focus:focus, body.AKJydenRed .btn-primary:focus.focus, body.AKJydenRed .btn-primary:active:hover, body.AKJydenRed .btn-primary:active:focus, body.AKJydenRed .btn-primary:active.focus {
+	color: #fff;
+	background-color: #DE0000;
+	border-color: #DE0000;
+	text-decoration: none;
+}
+body.AKJydenRed .section-heading span {
+	color: #DE0000;
+}
+body.AKJydenRed .navbar-inverse .navbar-nav > li > a:hover, body.AKJydenRed .navbar-inverse .navbar-nav > li > a:focus {
+	color: #DE0000;
+	background-color: transparent;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #DE0000;
+}
+body.AKJydenRed .navbar-inverse .navbar-nav > .active > a, body.AKJydenRed .navbar-inverse .navbar-nav > .active > a:hover, body.AKJydenRed .navbar-inverse .navbar-nav > .active > a:focus {
+	color: #DE0000;
+	background-color: transparent;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #DE0000;
+}
+body.AKJydenRed #myCarousel .carousel-indicators .active {
+	background-color: #DE0000;
+	border-color: #DE0000;
+}
+body.AKJydenRed #features a.readmore {
+	color: #DE0000;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+body.AKJydenRed #process .process-block:hover .process-icon {
+	background-color: #DE0000;
+}
+body.AKJydenRed #process .process-block:hover .process-icon-holder {
+	border-color: #DE0000;
+}
+body.AKJydenRed #process .process-block:hover .process-border {
+	border: 20px solid rgba(229, 78, 83, 0.2);
+}
+body.AKJydenRed #testimonial .user-info {
+	display: inline-block;
+}
+body.AKJydenRed #testimonial .user-info p {
+	color: #DE0000;
+}
+body.AKJydenRed #footer a:hover {
+	color: #DE0000;
+}
+body.AKJydenRed #footer a:hover i {
+	color: #DE0000;
+}
+body.AKJydenRed #footer .footer-block hr {
+	background-color: #DE0000;
+	width: 50px;
+	height: 3px;
+	border-top: 1px solid #34363e;
+	margin-top: 0px;
+	display: inline-block;
+}
+body.AKJydenRed #bottom-footer .copyright a {
+	color: #DE0000;
+}
+body.AKJydenRed #bottom-footer .copyright a:hover {
+	text-decoration: underline;
+}
+body.AKJydenRed #bottom-footer a:hover {
+	color: #DE0000;
+}
+body.AKJydenRed #panel .open {
+	background-color: #DE0000;
+	display: block;
+	width: 42px;
+	border-radius: 0 3px 3px 0;
+	height: 42px;
+	float: right;
+	font-size: 22px;
+	top: 60px;
+	right: -42px;
+	z-index: 1000;
+	position: absolute;
+}
+body.AKJydenRed #skills .progress.color .progress-bar {
+	border-color: #DE0000;
+}
+body.AKJydenRed #skills .progress.color .progress-value {
+	color: #fff;
+	background-color: #DE0000;
+}
+body.AKJydenRed #skills .progress.progress-bar-1 .progress-left .progress-bar {
+	animation: loading-2 1.5s linear forwards 1.8s;
+}
+body.AKJydenRed #skills .progress.progress-bar-2 .progress-left .progress-bar {
+	animation: loading-3 1s linear forwards 1.8s;
+}
+body.AKJydenRed #skills .progress.progress-bar-3 .progress-left .progress-bar {
+	animation: loading-4 0.4s linear forwards 1.8s;
+}
+body.AKJydenRed #skills .progress.progress-bar-4 .progress-left .progress-bar {
+	animation: loading-5 1.2s linear forwards 1.8s;
+}
+body.AKJydenRed #team-member .qodef-circle-animate {
+	background-color: #DE0000;
+}
+body.AKJydenRed #portfolio .portfolio-hover {
+	background-color: #DE0000;
+}
+body.AKJydenRed #contact-page .submit-button {
+	background: #DE0000;
+}
+body.AKJydenRed #faq .icon-circle {
+	background: #DE0000;
+}
+body.AKJydenRed #faq .panel-title a:hover, body.AKJydenRed #faq .panel-title a:active {
+	color: #DE0000;
+}
+body.AKJydenRed #features-page .right-background {
+	background-color: #DE0000;
+}
+body.AKJydenRed #features-page .right-background:before {
+	right: -999em;
+	background: #DE0000;
+	content: '';
+	display: block;
+	position: absolute;
+	width: 999em;
+	top: 0;
+	bottom: 0;
+}
+body.AKJydenRed #features-page .iconbox-style.icon-color i.boxicon {
+	color: #DE0000 !important;
+}
+body.AKJydenRed #features-page .flip .icon-color.card .back {
+	background: #DE0000;
+}
+body.AKJydenRed #features-page .divider5 {
+	border-bottom-color: #DE0000;
+}
+body.AKJydenRed #features-page .feature-section-3-left {
+	color: #DE0000;
+}
+body.AKJydenRed #features-page .feature-section-3-left h1 {
+	color: #DE0000;
+}
+body.AKJydenRed #features-page .feature-section-3-right {
+	background-color: #DE0000;
+}
+body.AKJydenRed #features-page .pricing-plan-2 {
+	background-color: #DE0000;
+}
+body.AKJydenRed #features-page hr {
+	background-color: #DE0000;
+}
+body.AKJydenRed #features-page .right-section {
+	background-color: #DE0000;
+}
+body.AKJydenRed #login-reg .form-box .btn {
+	background-color: #DE0000;
+}
+
+
+/******************* AKJyden Blue THEME *******************/
+body.AKJydenBlue span {
+	color: #292194;
+}
+body.AKJydenBlue .btn-primary {
+	padding: 15px 50px;
+	border-radius: 0px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #292194;
+	background-color: #fff;
+	border-color: #292194;
+	background: none;
+}
+body.AKJydenBlue .btn-primary:focus, body.AKJydenBlue .btn-primary.focus {
+	color: #292194;
+	background-color: #e6e6e6;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary:hover {
+	color: #292194;
+	background-color: #e6e6e6;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary:active, body.AKJydenBlue .btn-primary.active, .open > body.AKJydenBlue .btn-primary.dropdown-toggle {
+	color: #292194;
+	background-color: #e6e6e6;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary:active:hover, body.AKJydenBlue .btn-primary:active:focus, body.AKJydenBlue .btn-primary:active.focus, body.AKJydenBlue .btn-primary.active:hover, body.AKJydenBlue .btn-primary.active:focus, body.AKJydenBlue .btn-primary.active.focus, .open > body.AKJydenBlue .btn-primary.dropdown-toggle:hover, .open > body.AKJydenBlue .btn-primary.dropdown-toggle:focus, .open > body.AKJydenBlue .btn-primary.dropdown-toggle.focus {
+	color: #292194;
+	background-color: #d4d4d4;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary:active, body.AKJydenBlue .btn-primary.active, .open > body.AKJydenBlue .btn-primary.dropdown-toggle {
+	background-image: none;
+}
+body.AKJydenBlue .btn-primary.disabled:hover, body.AKJydenBlue .btn-primary.disabled:focus, body.AKJydenBlue .btn-primary.disabled.focus, body.AKJydenBlue .btn-primary[disabled]:hover, body.AKJydenBlue .btn-primary[disabled]:focus, body.AKJydenBlue .btn-primary[disabled].focus, fieldset[disabled] body.AKJydenBlue .btn-primary:hover, fieldset[disabled] body.AKJydenBlue .btn-primary:focus, fieldset[disabled] body.AKJydenBlue .btn-primary.focus {
+	background-color: #fff;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary .badge {
+	color: #fff;
+	background-color: #292194;
+}
+body.AKJydenBlue .btn-primary:hover, body.AKJydenBlue .btn-primary:focus, body.AKJydenBlue .btn-primary:active {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+	transition: 0.25s;
+}
+body.AKJydenBlue .btn-primary:hover:focus, body.AKJydenBlue .btn-primary:hover.focus, body.AKJydenBlue .btn-primary:focus:focus, body.AKJydenBlue .btn-primary:focus.focus, body.AKJydenBlue .btn-primary:active:focus, body.AKJydenBlue .btn-primary:active.focus {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary:hover:hover, body.AKJydenBlue .btn-primary:focus:hover, body.AKJydenBlue .btn-primary:active:hover {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary:hover:active, body.AKJydenBlue .btn-primary:hover.active, .open > body.AKJydenBlue .btn-primary:hover.dropdown-toggle, body.AKJydenBlue .btn-primary:focus:active, body.AKJydenBlue .btn-primary:focus.active, .open > body.AKJydenBlue .btn-primary:focus.dropdown-toggle, body.AKJydenBlue .btn-primary:active:active, body.AKJydenBlue .btn-primary:active.active, .open > body.AKJydenBlue .btn-primary:active.dropdown-toggle {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary:hover:active:hover, body.AKJydenBlue .btn-primary:hover:active:focus, body.AKJydenBlue .btn-primary:hover:active.focus, body.AKJydenBlue .btn-primary:hover.active:hover, body.AKJydenBlue .btn-primary:hover.active:focus, body.AKJydenBlue .btn-primary:hover.active.focus, .open > body.AKJydenBlue .btn-primary:hover.dropdown-toggle:hover, .open > body.AKJydenBlue .btn-primary:hover.dropdown-toggle:focus, .open > body.AKJydenBlue .btn-primary:hover.dropdown-toggle.focus, body.AKJydenBlue .btn-primary:focus:active:hover, body.AKJydenBlue .btn-primary:focus:active:focus, body.AKJydenBlue .btn-primary:focus:active.focus, body.AKJydenBlue .btn-primary:focus.active:hover, body.AKJydenBlue .btn-primary:focus.active:focus, body.AKJydenBlue .btn-primary:focus.active.focus, .open > body.AKJydenBlue .btn-primary:focus.dropdown-toggle:hover, .open > body.AKJydenBlue .btn-primary:focus.dropdown-toggle:focus, .open > body.AKJydenBlue .btn-primary:focus.dropdown-toggle.focus, body.AKJydenBlue .btn-primary:active:active:hover, body.AKJydenBlue .btn-primary:active:active:focus, body.AKJydenBlue .btn-primary:active:active.focus, body.AKJydenBlue .btn-primary:active.active:hover, body.AKJydenBlue .btn-primary:active.active:focus, body.AKJydenBlue .btn-primary:active.active.focus, .open > body.AKJydenBlue .btn-primary:active.dropdown-toggle:hover, .open > body.AKJydenBlue .btn-primary:active.dropdown-toggle:focus, .open > body.AKJydenBlue .btn-primary:active.dropdown-toggle.focus {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary:hover:active, body.AKJydenBlue .btn-primary:hover.active, .open > body.AKJydenBlue .btn-primary:hover.dropdown-toggle, body.AKJydenBlue .btn-primary:focus:active, body.AKJydenBlue .btn-primary:focus.active, .open > body.AKJydenBlue .btn-primary:focus.dropdown-toggle, body.AKJydenBlue .btn-primary:active:active, body.AKJydenBlue .btn-primary:active.active, .open > body.AKJydenBlue .btn-primary:active.dropdown-toggle {
+	background-image: none;
+}
+body.AKJydenBlue .btn-primary:hover.disabled:hover, body.AKJydenBlue .btn-primary:hover.disabled:focus, body.AKJydenBlue .btn-primary:hover.disabled.focus, body.AKJydenBlue .btn-primary:hover[disabled]:hover, body.AKJydenBlue .btn-primary:hover[disabled]:focus, body.AKJydenBlue .btn-primary:hover[disabled].focus, fieldset[disabled] body.AKJydenBlue .btn-primary:hover:hover, fieldset[disabled] body.AKJydenBlue .btn-primary:hover:focus, fieldset[disabled] body.AKJydenBlue .btn-primary:hover.focus, body.AKJydenBlue .btn-primary:focus.disabled:hover, body.AKJydenBlue .btn-primary:focus.disabled:focus, body.AKJydenBlue .btn-primary:focus.disabled.focus, body.AKJydenBlue .btn-primary:focus[disabled]:hover, body.AKJydenBlue .btn-primary:focus[disabled]:focus, body.AKJydenBlue .btn-primary:focus[disabled].focus, fieldset[disabled] body.AKJydenBlue .btn-primary:focus:hover, fieldset[disabled] body.AKJydenBlue .btn-primary:focus:focus, fieldset[disabled] body.AKJydenBlue .btn-primary:focus.focus, body.AKJydenBlue .btn-primary:active.disabled:hover, body.AKJydenBlue .btn-primary:active.disabled:focus, body.AKJydenBlue .btn-primary:active.disabled.focus, body.AKJydenBlue .btn-primary:active[disabled]:hover, body.AKJydenBlue .btn-primary:active[disabled]:focus, body.AKJydenBlue .btn-primary:active[disabled].focus, fieldset[disabled] body.AKJydenBlue .btn-primary:active:hover, fieldset[disabled] body.AKJydenBlue .btn-primary:active:focus, fieldset[disabled] body.AKJydenBlue .btn-primary:active.focus {
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary:hover .badge, body.AKJydenBlue .btn-primary:focus .badge, body.AKJydenBlue .btn-primary:active .badge {
+	color: #292194;
+	background-color: #fff;
+}
+body.AKJydenBlue .btn-primary:hover:hover, body.AKJydenBlue .btn-primary:hover:focus, body.AKJydenBlue .btn-primary:hover.focus, body.AKJydenBlue .btn-primary:focus:hover, body.AKJydenBlue .btn-primary:focus:focus, body.AKJydenBlue .btn-primary:focus.focus, body.AKJydenBlue .btn-primary:active:hover, body.AKJydenBlue .btn-primary:active:focus, body.AKJydenBlue .btn-primary:active.focus {
+	color: #fff;
+	text-decoration: none;
+}
+body.AKJydenBlue .btn-primary:hover i, body.AKJydenBlue .btn-primary:focus i, body.AKJydenBlue .btn-primary:active i {
+	color: #fff;
+}
+body.AKJydenBlue .btn-default {
+	padding: 15px 50px;
+	border-radius: 0px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:focus, body.AKJydenBlue .btn-default.focus {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:hover {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:active, body.AKJydenBlue .btn-default.active, .open > body.AKJydenBlue .btn-default.dropdown-toggle {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:active:hover, body.AKJydenBlue .btn-default:active:focus, body.AKJydenBlue .btn-default:active.focus, body.AKJydenBlue .btn-default.active:hover, body.AKJydenBlue .btn-default.active:focus, body.AKJydenBlue .btn-default.active.focus, .open > body.AKJydenBlue .btn-default.dropdown-toggle:hover, .open > body.AKJydenBlue .btn-default.dropdown-toggle:focus, .open > body.AKJydenBlue .btn-default.dropdown-toggle.focus {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:active, body.AKJydenBlue .btn-default.active, .open > body.AKJydenBlue .btn-default.dropdown-toggle {
+	background-image: none;
+}
+body.AKJydenBlue .btn-default.disabled:hover, body.AKJydenBlue .btn-default.disabled:focus, body.AKJydenBlue .btn-default.disabled.focus, body.AKJydenBlue .btn-default[disabled]:hover, body.AKJydenBlue .btn-default[disabled]:focus, body.AKJydenBlue .btn-default[disabled].focus, fieldset[disabled] body.AKJydenBlue .btn-default:hover, fieldset[disabled] body.AKJydenBlue .btn-default:focus, fieldset[disabled] body.AKJydenBlue .btn-default.focus {
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default .badge {
+	color: #292194;
+	background-color: #fff;
+}
+body.AKJydenBlue .btn-default i {
+	color: #fff;
+}
+body.AKJydenBlue .btn-default:hover {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+	transition: 0.25s;
+}
+body.AKJydenBlue .btn-default:hover:focus, body.AKJydenBlue .btn-default:hover.focus {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:hover:hover {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:hover:active, body.AKJydenBlue .btn-default:hover.active, .open > body.AKJydenBlue .btn-default:hover.dropdown-toggle {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:hover:active:hover, body.AKJydenBlue .btn-default:hover:active:focus, body.AKJydenBlue .btn-default:hover:active.focus, body.AKJydenBlue .btn-default:hover.active:hover, body.AKJydenBlue .btn-default:hover.active:focus, body.AKJydenBlue .btn-default:hover.active.focus, .open > body.AKJydenBlue .btn-default:hover.dropdown-toggle:hover, .open > body.AKJydenBlue .btn-default:hover.dropdown-toggle:focus, .open > body.AKJydenBlue .btn-default:hover.dropdown-toggle.focus {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:hover:active, body.AKJydenBlue .btn-default:hover.active, .open > body.AKJydenBlue .btn-default:hover.dropdown-toggle {
+	background-image: none;
+}
+body.AKJydenBlue .btn-default:hover.disabled:hover, body.AKJydenBlue .btn-default:hover.disabled:focus, body.AKJydenBlue .btn-default:hover.disabled.focus, body.AKJydenBlue .btn-default:hover[disabled]:hover, body.AKJydenBlue .btn-default:hover[disabled]:focus, body.AKJydenBlue .btn-default:hover[disabled].focus, fieldset[disabled] body.AKJydenBlue .btn-default:hover:hover, fieldset[disabled] body.AKJydenBlue .btn-default:hover:focus, fieldset[disabled] body.AKJydenBlue .btn-default:hover.focus {
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:hover .badge {
+	color: #292194;
+	background-color: #fff;
+}
+body.AKJydenBlue .btn-default:hover:hover, body.AKJydenBlue .btn-default:hover:focus, body.AKJydenBlue .btn-default:hover.focus {
+	color: #777777;
+	text-decoration: none;
+}
+body.AKJydenBlue .btn-default:hover i {
+	color: #777777;
+}
+body.AKJydenBlue .fillbtn:hover, body.AKJydenBlue .fillbtn:focus {
+	box-shadow: inset 0 0 0 2em #292194;
+}
+body.AKJydenBlue .slide:hover, body.AKJydenBlue .slide:focus {
+	box-shadow: inset 15.5em 0 0 0 #292194;
+}
+body.AKJydenBlue .btn-primary:focus, body.AKJydenBlue .btn-primary.focus {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue #top-header ul.contact_links a:hover {
+	color: #292194;
+}
+body.AKJydenBlue #top-header ul.social_links i:hover {
+	color: #292194;
+}
+body.AKJydenBlue .navbar-brand h1 {
+	color: #292194 !important;
+}
+body.AKJydenBlue .navbar-brand span {
+	color: #333333 !important;
+}
+body.AKJydenBlue .navbar-inverse .navbar-toggle:hover, body.AKJydenBlue .navbar-inverse .navbar-toggle:focus {
+	background-color: #fff;
+}
+body.AKJydenBlue .navbar-inverse .navbar-toggle {
+	border-color: #292194;
+}
+body.AKJydenBlue .navbar-inverse .navbar-toggle .icon-bar {
+	background-color: #292194;
+}
+body.AKJydenBlue i {
+	color: #292194;
+}
+body.AKJydenBlue .btn-default:hover {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:hover:focus, body.AKJydenBlue .btn-default:hover.focus {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:hover:hover {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:hover:active, body.AKJydenBlue .btn-default:hover.active, .open > body.AKJydenBlue .btn-default:hover.dropdown-toggle {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:hover:active:hover, body.AKJydenBlue .btn-default:hover:active:focus, body.AKJydenBlue .btn-default:hover:active.focus, body.AKJydenBlue .btn-default:hover.active:hover, body.AKJydenBlue .btn-default:hover.active:focus, body.AKJydenBlue .btn-default:hover.active.focus, .open > body.AKJydenBlue .btn-default:hover.dropdown-toggle:hover, .open > body.AKJydenBlue .btn-default:hover.dropdown-toggle:focus, .open > body.AKJydenBlue .btn-default:hover.dropdown-toggle.focus {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:hover:active, body.AKJydenBlue .btn-default:hover.active, .open > body.AKJydenBlue .btn-default:hover.dropdown-toggle {
+	background-image: none;
+}
+body.AKJydenBlue .btn-default:hover.disabled:hover, body.AKJydenBlue .btn-default:hover.disabled:focus, body.AKJydenBlue .btn-default:hover.disabled.focus, body.AKJydenBlue .btn-default:hover[disabled]:hover, body.AKJydenBlue .btn-default:hover[disabled]:focus, body.AKJydenBlue .btn-default:hover[disabled].focus, fieldset[disabled] body.AKJydenBlue .btn-default:hover:hover, fieldset[disabled] body.AKJydenBlue .btn-default:hover:focus, fieldset[disabled] body.AKJydenBlue .btn-default:hover.focus {
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-default:hover .badge {
+	color: #292194;
+	background-color: #fff;
+}
+body.AKJydenBlue .btn-default:hover:hover, body.AKJydenBlue .btn-default:hover:focus, body.AKJydenBlue .btn-default:hover.focus {
+	color: #777777;
+	background-color: #292194;
+	text-decoration: none;
+}
+body.AKJydenBlue .btn-primary:hover, body.AKJydenBlue .btn-primary:focus, body.AKJydenBlue .btn-primary:active {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary:hover:focus, body.AKJydenBlue .btn-primary:hover.focus, body.AKJydenBlue .btn-primary:focus:focus, body.AKJydenBlue .btn-primary:focus.focus, body.AKJydenBlue .btn-primary:active:focus, body.AKJydenBlue .btn-primary:active.focus {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary:hover:hover, body.AKJydenBlue .btn-primary:focus:hover, body.AKJydenBlue .btn-primary:active:hover {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary:hover:active, body.AKJydenBlue .btn-primary:hover.active, .open > body.AKJydenBlue .btn-primary:hover.dropdown-toggle, body.AKJydenBlue .btn-primary:focus:active, body.AKJydenBlue .btn-primary:focus.active, .open > body.AKJydenBlue .btn-primary:focus.dropdown-toggle, body.AKJydenBlue .btn-primary:active:active, body.AKJydenBlue .btn-primary:active.active, .open > body.AKJydenBlue .btn-primary:active.dropdown-toggle {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary:hover:active:hover, body.AKJydenBlue .btn-primary:hover:active:focus, body.AKJydenBlue .btn-primary:hover:active.focus, body.AKJydenBlue .btn-primary:hover.active:hover, body.AKJydenBlue .btn-primary:hover.active:focus, body.AKJydenBlue .btn-primary:hover.active.focus, .open > body.AKJydenBlue .btn-primary:hover.dropdown-toggle:hover, .open > body.AKJydenBlue .btn-primary:hover.dropdown-toggle:focus, .open > body.AKJydenBlue .btn-primary:hover.dropdown-toggle.focus, body.AKJydenBlue .btn-primary:focus:active:hover, body.AKJydenBlue .btn-primary:focus:active:focus, body.AKJydenBlue .btn-primary:focus:active.focus, body.AKJydenBlue .btn-primary:focus.active:hover, body.AKJydenBlue .btn-primary:focus.active:focus, body.AKJydenBlue .btn-primary:focus.active.focus, .open > body.AKJydenBlue .btn-primary:focus.dropdown-toggle:hover, .open > body.AKJydenBlue .btn-primary:focus.dropdown-toggle:focus, .open > body.AKJydenBlue .btn-primary:focus.dropdown-toggle.focus, body.AKJydenBlue .btn-primary:active:active:hover, body.AKJydenBlue .btn-primary:active:active:focus, body.AKJydenBlue .btn-primary:active:active.focus, body.AKJydenBlue .btn-primary:active.active:hover, body.AKJydenBlue .btn-primary:active.active:focus, body.AKJydenBlue .btn-primary:active.active.focus, .open > body.AKJydenBlue .btn-primary:active.dropdown-toggle:hover, .open > body.AKJydenBlue .btn-primary:active.dropdown-toggle:focus, .open > body.AKJydenBlue .btn-primary:active.dropdown-toggle.focus {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary:hover:active, body.AKJydenBlue .btn-primary:hover.active, .open > body.AKJydenBlue .btn-primary:hover.dropdown-toggle, body.AKJydenBlue .btn-primary:focus:active, body.AKJydenBlue .btn-primary:focus.active, .open > body.AKJydenBlue .btn-primary:focus.dropdown-toggle, body.AKJydenBlue .btn-primary:active:active, body.AKJydenBlue .btn-primary:active.active, .open > body.AKJydenBlue .btn-primary:active.dropdown-toggle {
+	background-image: none;
+}
+body.AKJydenBlue .btn-primary:hover.disabled:hover, body.AKJydenBlue .btn-primary:hover.disabled:focus, body.AKJydenBlue .btn-primary:hover.disabled.focus, body.AKJydenBlue .btn-primary:hover[disabled]:hover, body.AKJydenBlue .btn-primary:hover[disabled]:focus, body.AKJydenBlue .btn-primary:hover[disabled].focus, fieldset[disabled] body.AKJydenBlue .btn-primary:hover:hover, fieldset[disabled] body.AKJydenBlue .btn-primary:hover:focus, fieldset[disabled] body.AKJydenBlue .btn-primary:hover.focus, body.AKJydenBlue .btn-primary:focus.disabled:hover, body.AKJydenBlue .btn-primary:focus.disabled:focus, body.AKJydenBlue .btn-primary:focus.disabled.focus, body.AKJydenBlue .btn-primary:focus[disabled]:hover, body.AKJydenBlue .btn-primary:focus[disabled]:focus, body.AKJydenBlue .btn-primary:focus[disabled].focus, fieldset[disabled] body.AKJydenBlue .btn-primary:focus:hover, fieldset[disabled] body.AKJydenBlue .btn-primary:focus:focus, fieldset[disabled] body.AKJydenBlue .btn-primary:focus.focus, body.AKJydenBlue .btn-primary:active.disabled:hover, body.AKJydenBlue .btn-primary:active.disabled:focus, body.AKJydenBlue .btn-primary:active.disabled.focus, body.AKJydenBlue .btn-primary:active[disabled]:hover, body.AKJydenBlue .btn-primary:active[disabled]:focus, body.AKJydenBlue .btn-primary:active[disabled].focus, fieldset[disabled] body.AKJydenBlue .btn-primary:active:hover, fieldset[disabled] body.AKJydenBlue .btn-primary:active:focus, fieldset[disabled] body.AKJydenBlue .btn-primary:active.focus {
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue .btn-primary:hover .badge, body.AKJydenBlue .btn-primary:focus .badge, body.AKJydenBlue .btn-primary:active .badge {
+	color: #292194;
+	background-color: #fff;
+}
+body.AKJydenBlue .btn-primary:hover:hover, body.AKJydenBlue .btn-primary:hover:focus, body.AKJydenBlue .btn-primary:hover.focus, body.AKJydenBlue .btn-primary:focus:hover, body.AKJydenBlue .btn-primary:focus:focus, body.AKJydenBlue .btn-primary:focus.focus, body.AKJydenBlue .btn-primary:active:hover, body.AKJydenBlue .btn-primary:active:focus, body.AKJydenBlue .btn-primary:active.focus {
+	color: #fff;
+	background-color: #292194;
+	border-color: #292194;
+	text-decoration: none;
+}
+body.AKJydenBlue .section-heading span {
+	color: #292194;
+}
+body.AKJydenBlue .navbar-inverse .navbar-nav > li > a:hover, body.AKJydenBlue .navbar-inverse .navbar-nav > li > a:focus {
+	color: #292194;
+	background-color: transparent;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #292194;
+}
+body.AKJydenBlue .navbar-inverse .navbar-nav > .active > a, body.AKJydenBlue .navbar-inverse .navbar-nav > .active > a:hover, body.AKJydenBlue .navbar-inverse .navbar-nav > .active > a:focus {
+	color: #292194;
+	background-color: transparent;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #292194;
+}
+body.AKJydenBlue #myCarousel .carousel-indicators .active {
+	background-color: #292194;
+	border-color: #292194;
+}
+body.AKJydenBlue #features a.readmore {
+	color: #292194;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+body.AKJydenBlue #process .process-block:hover .process-icon {
+	background-color: #292194;
+}
+body.AKJydenBlue #process .process-block:hover .process-icon-holder {
+	border-color: #292194;
+}
+body.AKJydenBlue #process .process-block:hover .process-border {
+	border: 20px solid rgba(26, 186, 200, 0.2);
+}
+body.AKJydenBlue #testimonial .user-info {
+	display: inline-block;
+}
+body.AKJydenBlue #testimonial .user-info p {
+	color: #292194;
+}
+body.AKJydenBlue #footer a:hover {
+	color: #292194;
+}
+body.AKJydenBlue #footer a:hover i {
+	color: #292194;
+}
+body.AKJydenBlue #footer .footer-block hr {
+	background-color: #292194;
+	width: 50px;
+	height: 3px;
+	border-top: 1px solid #34363e;
+	margin-top: 0px;
+	display: inline-block;
+}
+body.AKJydenBlue #bottom-footer .copyright a {
+	color: #292194;
+}
+body.AKJydenBlue #bottom-footer .copyright a:hover {
+	text-decoration: underline;
+}
+body.AKJydenBlue #bottom-footer a:hover {
+	color: #292194;
+}
+body.AKJydenBlue #panel .open {
+	background-color: #292194;
+	display: block;
+	width: 42px;
+	border-radius: 0 3px 3px 0;
+	height: 42px;
+	float: right;
+	font-size: 22px;
+	top: 60px;
+	right: -42px;
+	z-index: 1000;
+	position: absolute;
+}
+body.AKJydenBlue #skills .progress.color .progress-bar {
+	border-color: #292194;
+}
+body.AKJydenBlue #skills .progress.color .progress-value {
+	color: #fff;
+	background-color: #292194;
+}
+body.AKJydenBlue #skills .progress.progress-bar-1 .progress-left .progress-bar {
+	animation: loading-2 1.5s linear forwards 1.8s;
+}
+body.AKJydenBlue #skills .progress.progress-bar-2 .progress-left .progress-bar {
+	animation: loading-3 1s linear forwards 1.8s;
+}
+body.AKJydenBlue #skills .progress.progress-bar-3 .progress-left .progress-bar {
+	animation: loading-4 0.4s linear forwards 1.8s;
+}
+body.AKJydenBlue #skills .progress.progress-bar-4 .progress-left .progress-bar {
+	animation: loading-5 1.2s linear forwards 1.8s;
+}
+body.AKJydenBlue #team-member .qodef-circle-animate {
+	background-color: #292194;
+}
+body.AKJydenBlue #portfolio .portfolio-hover {
+	background-color: #292194;
+}
+body.AKJydenBlue #contact-page .submit-button {
+	background: #292194;
+}
+body.AKJydenBlue #faq .icon-circle {
+	background: #292194;
+}
+body.AKJydenBlue #faq .panel-title a:hover, body.AKJydenBlue #faq .panel-title a:active {
+	color: #292194;
+}
+body.AKJydenBlue #features-page .iconbox-style.icon-color i.boxicon {
+	color: #292194;
+}
+body.AKJydenBlue #features-page .right-background {
+	background-color: #292194;
+}
+body.AKJydenBlue #features-page .right-background:before {
+	right: -999em;
+	background: #292194;
+	content: '';
+	display: block;
+	position: absolute;
+	width: 999em;
+	top: 0;
+	bottom: 0;
+}
+body.AKJydenBlue #features-page .flip .icon-color.card .back {
+	background: #292194;
+}
+body.AKJydenBlue #features-page .divider5 {
+	border-bottom-color: #292194;
+}
+body.AKJydenBlue #features-page .feature-section-3-left {
+	color: #292194;
+}
+body.AKJydenBlue #features-page .feature-section-3-left h1 {
+	color: #292194;
+}
+body.AKJydenBlue #features-page .feature-section-3-right {
+	background-color: #292194;
+}
+body.AKJydenBlue #features-page .pricing-plan-2 {
+	background-color: #292194;
+}
+body.AKJydenBlue #features-page hr {
+	background-color: #292194;
+}
+body.AKJydenBlue #features-page .right-section {
+	background-color: #292194;
+}
+body.AKJydenBlue #login-reg .form-box .btn {
+	background-color: #292194;
+}
